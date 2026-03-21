@@ -1,7 +1,7 @@
 <h1 align="center">Arya Acharya</h1>
 
 <p align="center">
-Game Designer | Unity | C# | Algorithms
+Game Designer | Unity Engine | UX Designer | Overwhelmed with ideas
 </p>
 
 ---
@@ -9,7 +9,7 @@ Game Designer | Unity | C# | Algorithms
 ### Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,python,vscode" />
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,github,arduino,figma" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Game Designer | Unity | C# | Algorithms
 
 ### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaKenwayE&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaKenway&theme=tokyo-night" />
 
 ---
 
