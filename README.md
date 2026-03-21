@@ -27,11 +27,6 @@ Game Designer | Unity Engine | UX Designer | A-la-carte of ideas! | https://arya
 </p>
 
 ---
-
-### Contribution Info
-
-<img src="https://streak-stats.demolab.com?user=AryaKenway&theme=tokyonight" />
-
 ### Visitor Counter
 
 <img src="https://komarev.com/ghpvc/?username=AryaKenway&label=Profile%20Views&color=0e75b6&style=flat" />
