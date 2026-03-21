@@ -1,7 +1,7 @@
 <h1 align="center">Arya Acharya</h1>
 
 <p align="center">
-Game Developer | Unity | C# | Algorithms
+Game Designer | Unity | C# | Algorithms
 </p>
 
 ---
@@ -18,11 +18,11 @@ Game Developer | Unity | C# | Algorithms
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AryaKenway&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaKenway&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKenway&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -30,10 +30,10 @@ Game Developer | Unity | C# | Algorithms
 
 ### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaKenwayE&theme=tokyo-night" />
 
 ---
 
 ### Visitor Counter
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=AryaKenway&label=Profile%20Views&color=0e75b6&style=flat" />
