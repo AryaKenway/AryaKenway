@@ -1,7 +1,7 @@
 <h1 align="center">Arya Acharya</h1>
 
 <p align="center">
-Game Designer | Unity Engine | UX Designer | Overwhelmed with ideas
+Game Designer | Unity Engine | UX Designer | A-la-carte of ideas! | https://aryakenway.github.io/Personal-Portfolio 
 </p>
 
 ---
@@ -28,7 +28,7 @@ Game Designer | Unity Engine | UX Designer | Overwhelmed with ideas
 
 ---
 
-### Contribution Graph
+### Contribution Info
 
 <img src="https://streak-stats.demolab.com?user=AryaKenway&theme=tokyonight" />
 
