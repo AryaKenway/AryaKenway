@@ -30,8 +30,7 @@ Game Designer | Unity Engine | UX Designer | Overwhelmed with ideas
 
 ### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaKenway&theme=tokyo-night&hide_border=true" />
----
+<img src="https://streak-stats.demolab.com?user=AryaKenway&theme=tokyonight" />
 
 ### Visitor Counter
 
