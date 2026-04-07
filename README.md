@@ -18,11 +18,9 @@ Game Designer | Unity Engine | UX Designer | A-la-carte of ideas! | https://arya
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryaKenway&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaKenway&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKenway&layout=compact&theme=tokyonight" />
 
 </p>
 
