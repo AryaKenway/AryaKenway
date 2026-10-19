@@ -23,8 +23,3 @@ Game Designer | Unity Engine | UX Designer | A-la-carte of ideas! | https://arya
 
 
 </p>
-
----
-### Visitor Counter
-
-<img src="https://komarev.com/ghpvc/?username=AryaKenway&label=Profile%20Views&color=0e75b6&style=flat" />
